@@ -1,8 +1,10 @@
 # Port_Scanner
 Simple port scanner
 
-Language: python
-Libraries: 
+Language: 
+  python
+
+Libraries Uses: 
   socket
   sys
   time
