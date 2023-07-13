@@ -11,3 +11,5 @@ Libraries Used :
   thread
 
 ![image](https://github.com/sumeet-darekar/Port_Scanner/assets/79735377/6851853b-d8a6-43b6-a563-e15f5473f9a5)
+
+Usage : python3 port_scanner.py <ip> <starting_port> <ending_port>
